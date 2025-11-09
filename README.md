@@ -13,10 +13,6 @@ A real-time computer vision project that uses color detection and image manipula
 
 ---
 
-### 🎥 Demo
-
-**(This is the most important part! Record a short video of your project working and convert it to a GIF. You can use a free online tool like ezgif.com. Place the GIF in your project folder and uncomment the line below.)**
-
 ---
 
 ### 🛠️ Technology Stack
